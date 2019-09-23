@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="org.larissa.cafe"
+        version="1.0.0">
+
+    <name>
+        Cafe
+    </name>
+
+    <description>
+        Menu do Café
+    </description>
+
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <preference name="permissions" value="none" />
+    <platform name="android" />
+
+    <plugin name="cordova-plugin-splashscreen" />
+</widget>
